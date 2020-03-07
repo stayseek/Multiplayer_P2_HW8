@@ -18775,7 +18775,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1335f3fe83201bf488613a4974f82c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 10
+  _speed: 180
 --- !u!114 &7000945982946740081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18791,22 +18791,22 @@ MonoBehaviour:
   m_SceneId:
     m_Value: 0
   m_AssetId:
-    i0: 248
-    i1: 140
-    i2: 53
-    i3: 152
-    i4: 113
-    i5: 90
-    i6: 136
-    i7: 132
-    i8: 121
-    i9: 75
-    i10: 208
-    i11: 180
-    i12: 153
-    i13: 164
-    i14: 222
-    i15: 220
+    i0: 0
+    i1: 0
+    i2: 0
+    i3: 0
+    i4: 0
+    i5: 0
+    i6: 0
+    i7: 0
+    i8: 0
+    i9: 0
+    i10: 0
+    i11: 0
+    i12: 0
+    i13: 0
+    i14: 0
+    i15: 0
   m_ServerOnly: 1
   m_LocalPlayerAuthority: 0
 --- !u!114 &7000945982946740082
@@ -28423,7 +28423,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1335f3fe83201bf488613a4974f82c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 10
+  _speed: 180
 --- !u!1 &7857445879951161615
 GameObject:
   m_ObjectHideFlags: 0
